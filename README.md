@@ -150,7 +150,6 @@ The application uses the following main tables:
 ## 📱 Responsive Design
 
 The application is fully responsive with:
-- **Mobile-first approach** with breakpoints at 768px
 - **Flexible layouts** that adapt to different screen sizes
 - **Touch-friendly buttons** and form elements
 - **Optimized typography** for readability across devices
@@ -176,36 +175,9 @@ PORT=5001
 - Add HTTPS in production
 - Regular security updates for dependencies
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
 - **Yashwanth Chandolu** - [@YashCh31](https://github.com/YashCh31)
 
-## 🙏 Acknowledgments
-
-- React community for excellent documentation
-- Express.js for the robust backend framework
-- PostgreSQL for reliable data storage
-- JWT community for authentication standards
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/YashCh31/Waterlily/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and steps to reproduce
-
-Happy coding! 🌸
